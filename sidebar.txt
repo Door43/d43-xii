@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xii:home|Door43 (xii)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xii|d43-xii repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xii/archive/master.zip|d43-xii.zip]]
+
+**Recent Changes**
+{{changes>ns = xii}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xii|Ethnologue data]]
+
